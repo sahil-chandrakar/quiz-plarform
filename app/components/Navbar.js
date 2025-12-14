@@ -52,7 +52,7 @@ export default function Navbar() {
                             <PsychologyIcon fontSize="small" />
                         </Box>
                         <Typography variant="h6" sx={{ letterSpacing: '-0.5px', background: 'linear-gradient(45deg, #10b981, #3b82f6)', backgroundClip: 'text', textFillColor: 'transparent', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', fontWeight: 800 }}>
-                            Quiz App
+                            Modern Quiz
                         </Typography>
                     </Stack>
 
